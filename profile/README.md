@@ -11,7 +11,7 @@ We conduct **conservation-relevant shark and ray research** while fostering scie
 SRC operates at the intersection of **Science · Education · Conservation**:
 
 - **Science:** Conducting applied research on shark and ray ecology, biology, and conservation in highly human-impacted environments. Projects include GPS tagging (“GPS for Sharks”), urban shark ecology, immune system health, fish stress, reproduction, and climate change impacts.  
-- **Education & Outreach:** Engaging **over 12,000 citizen scientists**, including school students, in field experiences. Offering **school group trips**, **FINS: For Girls in STEM** programs, and online resources like blogs, curricula, and Google Earth shark trackers.  
+- **Education & Outreach:** Engaging **over 12,000 citizen scientists**, including school students, in field experiences. Offering **school group trips**, **FINS: For Girls in STEM** programs, and online resources like blogs and curricula.
 - **Conservation Impact:** Advancing understanding of environmental change on shark behavior and health, and translating findings into effective conservation strategies.
 
 ---
