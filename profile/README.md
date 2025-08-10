@@ -30,7 +30,4 @@ She also leads the **Marine Conservation track** for UM’s Master of Profession
 
 ---
 
-## 📌 Quick Summary
-
-The **Shark Research & Conservation Program** at the University of Miami unites cutting-edge, conservation-relevant research on sharks and rays with dynamic, inclusive education and outreach. Directed by **Dr. Catherine Macdonald**, SRC empowers thousands—especially from underrepresented groups—to engage directly with marine science through immersive field experiences, citizen science, and digital outreach.  
 [Visit our website →](https://sharkresearch.earth.miami.edu/)
