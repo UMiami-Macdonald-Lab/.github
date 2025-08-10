@@ -1,4 +1,4 @@
-# Shark Research & Conservation Program (SRC) – University of Miami
+# The Macdonald Lab –  Shark Research & Conservation Program (SRC) – University of Miami
 
 Welcome to the **Shark Research & Conservation Program (SRC)** at the University of Miami’s Rosenstiel School of Marine, Atmospheric, and Earth Science.  
 We conduct **conservation-relevant shark and ray research** while fostering scientific literacy and environmental stewardship among youth—especially communities historically excluded from STEM—through hands-on field experiences.  
@@ -21,12 +21,10 @@ SRC operates at the intersection of **Science · Education · Conservation**:
 **Dr. Catherine Macdonald** is SRC Director and a Research Assistant Professor at the Rosenstiel School.  
 Her interdisciplinary research spans shark ecology, conservation policy, human dimensions of ocean conservation, and wildlife tourism as a conservation tool.
 
-She also leads the **Marine Conservation track** for UM’s Master of Professional Science program and teaches courses on marine conservation biology, shark ecology, and marine field research skills. With over a decade of shark and ray research experience, Dr. Macdonald is recognized for her leadership in safe, inclusive field training—she co-founded **Field School**, contributed to **Minorities in Shark Science (MISS)**, and earned the **2021 Mentor of the Year Award**.
+## 💻 About Our GitHub
 
-**Notable achievements:**
-- National Geographic Explorer (2021)  
-- Discovered the first known U.S. nursery for critically endangered great hammerhead sharks  
-- Featured in *The New York Times*, *Washington Post*, and *National Geographic*
+Here you will find **code from SRC student projects**, including data analysis scripts, visualization tools, and methods developed as part of undergraduate and graduate research. We share these projects to promote reproducibility, and collaboration across the marine research community.
+
 
 ---
 
